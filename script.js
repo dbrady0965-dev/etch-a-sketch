@@ -17,11 +17,3 @@ function makeGrids(size) {
 }
 
 makeGrids(16);
-
-
-
-
-
-
-
-

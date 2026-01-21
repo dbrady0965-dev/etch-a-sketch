@@ -57,3 +57,7 @@ footer {
 .sketch-screen>div>* {
     flex: 1;
 }
+
+.column {
+    display: inline-flex;
+}
