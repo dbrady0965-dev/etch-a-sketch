@@ -47,6 +47,13 @@ footer {
     background-color: #bfbfbf
 }
 
-.sketch-screen > div {
+.sketch-screen>div {
+    flex: 1 0 auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.sketch-screen>div>* {
     flex: 1;
 }
